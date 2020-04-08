@@ -1,5 +1,9 @@
 # Change Log
 
+## 2.0 - 19/06/2019
+
+### Full Plugin Redeveloped.
+
 ## 1.3 - 08/02/2017
 
 ### Fixed
