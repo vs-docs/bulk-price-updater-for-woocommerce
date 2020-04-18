@@ -1,5 +1,10 @@
 # Change Log
 
+## V 2.2 - 18/04/2020
+* Improved Plugin Loading Speed
+* Updated WPOnion To `1.4.5.2`
+* Updated VSP Framework To `0.8.4`
+
 ## V 2.1 - 08/04/2020
 * Minor Bug Fixes
 * Updated WPOnion To `1.4.5.1`
