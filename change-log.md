@@ -1,29 +1,29 @@
 # Change Log
 
-## 2.0 - 19/06/2019
-* Full Plugin Redeveloped.
+## V 2.1 - 08/04/2020
+* Minor Bug Fixes
+* Updated WPOnion To `1.4.5.1`
+* Updated VSP Framework To `0.8.2`
 
-## 1.3 - 08/02/2017
+## V 2.0 - 19/07/2019
+* Fully Redeveloped
 
-### Fixed
-* Fixed Few Bugs
+## V 1.4 (02-Feb-2018)
+* Minor Issue Fixed
+* Tested With Latest WordPress & WooCommerce
 
-## 1.2 - 02/12/2016
+## V 1.3 (08 FEB 2017)
+* Minor bug Fix
+* Tested With Latest WP & WC
 
-### Fixed
-* Fixed Few Bugs
+## V 1.2 (20-Nov-2016)
+* Fixed Minor Issues
+* Added Options To Roll Back Price Changes.
 
-### Added
-* Option To Roll Back Changed Prices
+## V 1.1 (04-March-2016)
+* Minor Bug Fixed
+* Tested With Latest Version of WooCommerce & WordPress
+* Added Few Hooks To Make Plugin Hookable & Integratable
 
-## 1.1 - 04/03/2016
-
-### Fixed
-* Fixed Few Bugs
-
-### Added
-* Few Hook for easy integration for other plugins
-
-## 1.0 - 31/12/2015
+## V 1.0 (31-Dec-2015)
 * First Release
-
