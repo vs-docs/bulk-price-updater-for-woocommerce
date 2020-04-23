@@ -1,5 +1,8 @@
 # Change Log
 
+## V 2.3 - 18/04/2020
+* Updated WPOnion To `1.4.5.3`
+
 ## V 2.2 - 18/04/2020
 * Improved Plugin Loading Speed
 * Updated WPOnion To `1.4.5.2`
