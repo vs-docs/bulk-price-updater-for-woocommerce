@@ -1,5 +1,10 @@
 # Change Log
 
+## V 2.4 - 23/06/2020
+* Added Optiont To Update Just Prices By Selecting The Products
+* Updated WPOnion To `1.5.3.1`
+* Updated VSP Framework To `0.8.9.1`
+
 ## V 2.3 - 18/04/2020
 * Updated WPOnion To `1.4.5.3`
 
