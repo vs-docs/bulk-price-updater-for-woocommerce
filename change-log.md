@@ -1,5 +1,10 @@
 # Change Log
 
+## V 2.5.1 - 26/03/2021
+* Minor Code Changes
+* Tested With WordPress `5.7.2`
+* Tested With WooCommerce `5.3.0`
+
 ## V 2.5 - 26/03/2021
 * Updated WPOnion To `1.5.3.7`
 * Updated VSP Framework To `0.8.9.8`
